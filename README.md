@@ -5,7 +5,13 @@ let's create a custom classifier and run analysis with node.red on images.
 2. use [watson visual recognition in node.red](https://github.com/watson-developer-cloud/node-red-labs/tree/master/basic_examples/visual_recognition)
 3. tweak it to use our custom model
 
-add an additional `function` node - see the pic. Wire it together with the visual recogniton node.
+add an additional `function` node - see the pic. 
+
+![added-node](images/added-node.png)
+
+![added-function](images/node-function.png)
+
+Wire it together with the visual recogniton node.
 
 add this code:
 
