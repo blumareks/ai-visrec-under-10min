@@ -2,6 +2,7 @@
 let's create a custom classifier and run analysis with node.red on images.
 
 ## See this github here: http://ibm.biz/2019treehacks 
+to sign up for the cloud: http://ibm.biz/2019TreeHacks
 
 1. find [the drone based image classifier building with John Walicki](https://github.com/IBM/drones-iot-visual-recognition)
 2. use [watson visual recognition in node.red](https://github.com/watson-developer-cloud/node-red-labs/tree/master/basic_examples/visual_recognition)
