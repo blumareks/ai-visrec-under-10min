@@ -1,6 +1,13 @@
 # ai visual recognition under 10min
+
 let's create a custom classifier and run analysis with node.red on images.
 
+# call-for-code link
+PLEASE use it before you start:
+[signup for IBM Cloud with VCPI: https://ibm.biz/BdzcXE](https://ibm.biz/BdzcXE)
+
+
+## steps
 1. find [the drone based image classifier building with John Walicki](https://github.com/IBM/drones-iot-visual-recognition)
 2. use [watson visual recognition in node.red](https://github.com/watson-developer-cloud/node-red-labs/tree/master/basic_examples/visual_recognition)
 3. tweak it to use our custom model
