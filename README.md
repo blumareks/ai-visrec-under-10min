@@ -25,6 +25,10 @@ msg.params={"classifier_ids":["CountBurnedHomes_some_id"],"threshold":0};
 return msg;
 ```
 
+Please mind that you need to replace the classifier_ids' value - ie. `CountBurnedHomes_some_id` with the value from the custom classifier in Watson Studio. You can find it on the asset page. See below picture:
+
+![watson-studio-custom-classifier](images/custom-model-watson-studio.png)
+
 And you should be good to test it on image like this one: https://i.dailymail.co.uk/i/newpix/2018/08/10/00/4EF8313400000578-0-image-a-11_1533857657594.jpg (this is such an unhappy picture, that please give a thought to displaced people in Nothern California, and other places affected by disasters. Do [Call for Code!](http://callforcode.org/) ).
 
 ```
