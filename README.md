@@ -5,7 +5,7 @@ let's create a custom classifier and run analysis with node.red on images.
 
 ## steps
 1. find [the drone based image classifier building with John Walicki](https://github.com/IBM/drones-iot-visual-recognition)
-- [see the video on how it was done for adding the wild fires classifier : https://youtu.be/kW7cjuWuPS0](https://youtu.be/kW7cjuWuPS0)
+- see the short video on how the custom classifier was done in Watson Studio for [the wild fires : https://youtu.be/kW7cjuWuPS0](https://youtu.be/kW7cjuWuPS0)
 
 2. use [watson visual recognition in node.red](https://github.com/watson-developer-cloud/node-red-labs/tree/master/basic_examples/visual_recognition)
 3. tweak it to use our custom model
